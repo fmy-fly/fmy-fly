@@ -1,10 +1,14 @@
 # dream_Flying
 
-## 教育经历
+## Education
 
-- 苏州大学
-- 东南大学
+- **Southeast University** | Sep 2024 - Jun 2027 (Expected)  
+  Master's in Software Engineering
+- **Soochow University** | Sep 2020 - Jun 2024  
+  B.Eng. in Software Engineering
 
-## 实习经历
+## Internship Experience
 
-- 淘天
+**Alibaba Group - Taotian Group** | Jun 2026 - Present  
+**AI Application Development Engineer Intern**  
+Tmall New Product Marketing Technology - Tmall Hey Box
