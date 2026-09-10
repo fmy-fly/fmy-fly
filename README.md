@@ -2,26 +2,30 @@
 
 ## Education
 
-<table>
-  <tr>
-    <td width="64" align="center"><img src="./southeast-logo.svg" alt="Southeast University logo" width="52" height="52"></td>
-    <td><strong>Southeast University</strong><br>Sep 2024 - Jun 2027 (Expected)<br>Master's in Software Engineering</td>
-  </tr>
-  <tr>
-    <td width="64" align="center"><img src="./soochow-logo.png" alt="Soochow University logo" width="52" height="52"></td>
-    <td><strong>Soochow University</strong><br>Sep 2020 - Jun 2024<br>B.Eng. in Software Engineering</td>
-  </tr>
-</table>
+<img align="right" src="./southeast-logo.svg" alt="Southeast University logo" width="48" height="48">
+
+**Southeast University**  
+Master's in Software Engineering  
+<sub>Sep 2024 - Jun 2027 (Expected)</sub>
+
+<br clear="right">
+
+<img align="right" src="./soochow-logo.png" alt="Soochow University logo" width="48" height="48">
+
+**Soochow University**  
+B.Eng. in Software Engineering  
+<sub>Sep 2020 - Jun 2024</sub>
+
+<br clear="right">
 
 ## Internship Experience
 
-<p>
-  <img src="./alibaba-logo.png" alt="Alibaba Group logo" height="40">
-  &nbsp;
-  <img src="./taotian-logo.png" alt="Taotian Group (Taobao &amp; Tmall Group) logo" height="40">
-</p>
+<img align="right" src="./company-logos.png" alt="Alibaba Group and Taotian Group logos" width="104" height="76">
 
-**Alibaba Group - Taotian Group (Taobao & Tmall Group)**  
-Jun 2026 - Sep 2026  
-**AI Application Development Engineer Intern**  
-Tmall New Product Marketing Technology - Tmall Hey Box
+**Alibaba Group &middot; Taotian Group**  
+<sub>Taobao &amp; Tmall Group &middot; Jun 2026 - Sep 2026</sub>
+
+AI Application Development Engineer Intern  
+Tmall New Product Marketing Technology &middot; Tmall Hey Box
+
+<br clear="right">
