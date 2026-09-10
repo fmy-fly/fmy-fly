@@ -26,6 +26,6 @@ B.Eng. in Software Engineering
 <sub>Taobao &amp; Tmall Group &middot; Jun 2026 - Sep 2026</sub>
 
 AI Application Development Engineer Intern  
-Tmall New Product Marketing Technology &middot; Tmall Hey Box
+Tmall heybox
 
 <br clear="right">
